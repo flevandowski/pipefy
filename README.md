@@ -1,2 +1,2 @@
-# pipefy
+# pipefy 📌
 Clone Pipefy utilizando React
